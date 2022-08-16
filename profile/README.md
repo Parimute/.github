@@ -1,3 +1,3 @@
 # Parimute
 
-Cardano decentralized betting blatform
+Cardano decentralized betting platform
