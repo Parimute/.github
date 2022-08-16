@@ -1,3 +1,3 @@
 # Parimute
 
-Betting evolved.
+Decentralized Cardano Betting Platform
