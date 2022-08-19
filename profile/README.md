@@ -1,3 +1,3 @@
 # Parimute
 
-Decentralized Betting Platform on Cardano
+The first decentralized multi-asset betting protocol.
