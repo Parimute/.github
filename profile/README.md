@@ -1,3 +1,3 @@
 # Parimute
 
-The first decentralized multi-asset betting protocol.
+Multi-asset betting protocol on the Cardano blockchain
